@@ -58,11 +58,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#031bf7', end
 .center {
     text-align: center;
 }
-
+/*
 a {
     -webkit-transition: all .3s;
     transition: all .3s
-}
+}*/
 
 .uppercase {
     text-transform: uppercase;

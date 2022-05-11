@@ -1,0 +1,28 @@
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in this template*/
+/*--------------------------------------------------------------------------*/
+
+.project-02-carousel-item-01{
+	background-image: url('../images/project/project02/01.jpg');
+}
+.project-02-carousel-item-02{
+	background-image: url('../images/project/project02/02.jpg');
+}
+.project-02-carousel-item-03{
+	background-image: url('../images/project/project02/03.jpg');
+}
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in ZEN */
+/*--------------------------------------------------------------------------*/
+
+
+
+
+
+/*Mobile Menu Logo*/
+.menu-collapser {
+    background-image: url('../images/logo.png');
+}
+

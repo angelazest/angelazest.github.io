@@ -1,0 +1,593 @@
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in TRAIN TO HOLLYWOOD
+/*--------------------------------------------------------------------------*/
+
+.project-01-carousel-item-01{
+	background-image: url('../images/project/project01/01.jpg');
+}
+.project-01-carousel-item-02{
+	background-image: url('../images/project/project01/02.jpg');
+}
+.project-01-carousel-item-03{
+	background-image: url('../images/project/project01/03.jpg');
+}
+.project-01-carousel-item-04{
+	background-image: url('../images/project/project01/04.jpg');
+}
+.project-01-carousel-item-05{
+	background-image: url('../images/project/project01/05.jpg');
+}
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in ZEN */
+/*--------------------------------------------------------------------------*/
+
+
+.project-02-carousel-item-01{
+	background-image: url('../images/project/project02/01.jpg');
+}
+.project-02-carousel-item-02{
+	background-image: url('../images/project/project02/02.jpg');
+}
+.project-02-carousel-item-03{
+	background-image: url('../images/project/project02/03.jpg');
+}
+.project-02-carousel-item-04{
+	background-image: url('../images/project/project02/04.jpg');
+}
+.project-02-carousel-item-05{
+	background-image: url('../images/project/project02/05.jpg');
+}
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in COSTA FUSTERA */
+/*--------------------------------------------------------------------------*/
+
+
+.project-03-carousel-item-01{
+	background-image: url('../images/project/project03/01.jpg');
+}
+.project-03-carousel-item-02{
+	background-image: url('../images/project/project03/02.jpg');
+}
+.project-03-carousel-item-03{
+	background-image: url('../images/project/project03/03.jpg');
+}
+
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in 9MARCHA BTT */
+/*--------------------------------------------------------------------------*/
+
+
+.project-04-carousel-item-01{
+	background-image: url('../images/project/project04/01.jpg');
+}
+.project-04-carousel-item-02{
+	background-image: url('../images/project/project04/02.jpg');
+}
+.project-04-carousel-item-03{
+	background-image: url('../images/project/project04/03.jpg');
+}
+
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in FARMACIA */
+/*--------------------------------------------------------------------------*/
+
+
+.project-05-carousel-item-01{
+	background-image: url('../images/project/project05/01.jpg');
+}
+.project-05-carousel-item-02{
+	background-image: url('../images/project/project05/02.jpg');
+}
+.project-05-carousel-item-03{
+	background-image: url('../images/project/project05/03.jpg');
+}
+.project-05-carousel-item-04{
+	background-image: url('../images/project/project05/04.jpg');
+}
+.project-05-carousel-item-05{
+	background-image: url('../images/project/project05/05.jpg');
+}
+.project-05-carousel-item-06{
+	background-image: url('../images/project/project05/06.jpg');
+}
+.project-05-carousel-item-07{
+	background-image: url('../images/project/project05/07.jpg');
+}
+.project-05-carousel-item-08{
+	background-image: url('../images/project/project05/08.jpg');
+}
+.project-05-carousel-item-09{
+	background-image: url('../images/project/project05/09.jpg');
+}
+.project-05-carousel-item-10{
+	background-image: url('../images/project/project05/10.jpg');
+}
+.project-05-carousel-item-11{
+	background-image: url('../images/project/project05/11.jpg');
+}
+.project-05-carousel-item-12{
+	background-image: url('../images/project/project05/12.jpg');
+}
+.project-05-carousel-item-13{
+	background-image: url('../images/project/project05/13.jpg');
+}
+.project-05-carousel-item-14{
+	background-image: url('../images/project/project05/14.jpg');
+}
+.project-05-carousel-item-15{
+	background-image: url('../images/project/project05/15.jpg');
+}
+.project-05-carousel-item-16{
+	background-image: url('../images/project/project05/16.jpg');
+}
+.project-05-carousel-item-17{
+	background-image: url('../images/project/project05/17.jpg');
+}
+.project-05-carousel-item-18{
+	background-image: url('../images/project/project05/18.jpg');
+}
+.project-05-carousel-item-19{
+	background-image: url('../images/project/project05/19.jpg');
+}
+
+
+
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in DUATLON 2012 */
+/*--------------------------------------------------------------------------*/
+
+
+.project-06-carousel-item-01{
+	background-image: url('../images/project/project06/01.jpg');
+}
+.project-06-carousel-item-02{
+	background-image: url('../images/project/project06/02.jpg');
+}
+.project-06-carousel-item-03{
+	background-image: url('../images/project/project06/03.jpg');
+}
+
+
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in REVISTA BTT */
+/*--------------------------------------------------------------------------*/
+
+
+.project-07-carousel-item-01{
+	background-image: url('../images/project/project07/01.jpg');
+}
+.project-07-carousel-item-02{
+	background-image: url('../images/project/project07/02.jpg');
+}
+.project-07-carousel-item-03{
+	background-image: url('../images/project/project07/03.jpg');
+}
+.project-07-carousel-item-04{
+	background-image: url('../images/project/project07/04.jpg');
+}
+.project-07-carousel-item-05{
+	background-image: url('../images/project/project07/05.jpg');
+}
+.project-07-carousel-item-06{
+	background-image: url('../images/project/project07/06.jpg');
+}
+.project-07-carousel-item-07{
+	background-image: url('../images/project/project07/07.jpg');
+}
+.project-07-carousel-item-08{
+	background-image: url('../images/project/project07/08.jpg');
+}
+.project-07-carousel-item-09{
+	background-image: url('../images/project/project07/09.jpg');
+}
+.project-07-carousel-item-10{
+	background-image: url('../images/project/project07/10.jpg');
+}
+.project-07-carousel-item-11{
+	background-image: url('../images/project/project07/11.jpg');
+}
+.project-07-carousel-item-12{
+	background-image: url('../images/project/project07/12.jpg');
+}
+.project-07-carousel-item-13{
+	background-image: url('../images/project/project07/13.jpg');
+}
+.project-07-carousel-item-14{
+	background-image: url('../images/project/project07/14.jpg');
+}
+.project-07-carousel-item-15{
+	background-image: url('../images/project/project07/15.jpg');
+}
+.project-07-carousel-item-16{
+	background-image: url('../images/project/project07/16.jpg');
+}
+
+
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in 2CIRCUITO VERTICAL */
+/*--------------------------------------------------------------------------*/
+
+
+.project-08-carousel-item-01{
+	background-image: url('../images/project/project08/01.jpg');
+}
+.project-08-carousel-item-02{
+	background-image: url('../images/project/project08/02.jpg');
+}
+.project-08-carousel-item-03{
+	background-image: url('../images/project/project08/03.jpg');
+}
+.project-08-carousel-item-04{
+	background-image: url('../images/project/project08/04.jpg');
+}
+.project-08-carousel-item-05{
+	background-image: url('../images/project/project08/05.jpg');
+}
+
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in I LOVE THIS WORK */
+/*--------------------------------------------------------------------------*/
+
+
+.project-09-carousel-item-01{
+	background-image: url('../images/project/project09/01.jpg');
+}
+.project-09-carousel-item-02{
+	background-image: url('../images/project/project09/02.jpg');
+}
+.project-09-carousel-item-03{
+	background-image: url('../images/project/project09/03.jpg');
+}
+.project-09-carousel-item-04{
+	background-image: url('../images/project/project09/04.jpg');
+}
+.project-09-carousel-item-05{
+	background-image: url('../images/project/project09/05.jpg');
+}
+
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in GRÁFICAS  */
+/*--------------------------------------------------------------------------*/
+
+
+
+.project-10-carousel-item-01{
+	background-image: url('../images/project/project10/01.jpg');
+}
+.project-10-carousel-item-02{
+	background-image: url('../images/project/project10/02.jpg');
+}
+.project-10-carousel-item-03{
+	background-image: url('../images/project/project10/03.jpg');
+}
+.project-10-carousel-item-04{
+	background-image: url('../images/project/project10/04.jpg');
+}
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in RUNNING  */
+/*--------------------------------------------------------------------------*/
+
+
+
+
+.project-11-carousel-item-01{
+	background-image: url('../images/project/project11/01.jpg');
+}
+.project-11-carousel-item-02{
+	background-image: url('../images/project/project11/02.jpg');
+}
+.project-11-carousel-item-03{
+	background-image: url('../images/project/project11/03.jpg');
+}
+.project-11-carousel-item-04{
+	background-image: url('../images/project/project11/04.jpg');
+}
+.project-11-carousel-item-05{
+	background-image: url('../images/project/project11/05.jpg');
+}
+
+
+/*--------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in GRÁFICAS SIAN  */
+/*--------------------------------------------------------------------------*/
+
+
+.project-12-carousel-item-01{
+	background-image: url('../images/project/project12/01.jpg');
+}
+.project-12-carousel-item-02{
+	background-image: url('../images/project/project12/02.jpg');
+}
+.project-12-carousel-item-03{
+	background-image: url('../images/project/project12/03.jpg');
+}
+.project-12-carousel-item-04{
+	background-image: url('../images/project/project12/04.jpg');
+}
+
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in TRIATLÓN */
+/*----------------------------------------------------------------------------*/
+
+
+.project-13-carousel-item-01{
+	background-image: url('../images/project/project13/01.jpg');
+}
+.project-13-carousel-item-02{
+	background-image: url('../images/project/project13/02.jpg');
+}
+
+
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in  LOGOS*/
+/*----------------------------------------------------------------------------*/
+
+
+
+.project-14-carousel-item-01{
+	background-image: url('../images/project/project14/01.jpg');
+}
+.project-14-carousel-item-02{
+	background-image: url('../images/project/project14/02.jpg');
+}
+.project-14-carousel-item-03{
+	background-image: url('../images/project/project14/03.jpg');
+}
+.project-14-carousel-item-04{
+	background-image: url('../images/project/project14/04.jpg');
+}
+.project-14-carousel-item-05{
+	background-image: url('../images/project/project14/05.jpg');
+}
+.project-14-carousel-item-06{
+	background-image: url('../images/project/project14/06.jpg');
+}
+.project-14-carousel-item-07{
+	background-image: url('../images/project/project14/07.jpg');
+}
+.project-14-carousel-item-08{
+	background-image: url('../images/project/project14/08.jpg');
+}
+.project-14-carousel-item-09{
+	background-image: url('../images/project/project14/09.jpg');
+}
+.project-14-carousel-item-10{
+	background-image: url('../images/project/project14/10.jpg');
+}
+.project-14-carousel-item-11{
+	background-image: url('../images/project/project14/11.jpg');
+}
+.project-14-carousel-item-12{
+	background-image: url('../images/project/project14/12.jpg');
+}
+.project-14-carousel-item-13{
+	background-image: url('../images/project/project14/13.jpg');
+}
+.project-14-carousel-item-14{
+	background-image: url('../images/project/project14/14.jpg');
+}
+
+
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in FINCAS HOUSE  */
+/*----------------------------------------------------------------------------*/
+
+
+.project-15-carousel-item-01{
+	background-image: url('../images/project/project15/01.jpg');
+}
+
+.project-15-carousel-item-02{
+	background-image: url('../images/project/project15/02.jpg');
+}
+
+.project-15-carousel-item-03{
+	background-image: url('../images/project/project15/03.jpg');
+}
+
+
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in VERTICAL BCN  */
+/*----------------------------------------------------------------------------*/
+
+
+.project-16-carousel-item-01{
+	background-image: url('../images/project/project16/01.jpg');
+}
+.project-16-carousel-item-02{
+	background-image: url('../images/project/project16/02.jpg');
+}
+.project-16-carousel-item-03{
+	background-image: url('../images/project/project16/03.jpg');
+}
+.project-16-carousel-item-04{
+	background-image: url('../images/project/project16/04.jpg');
+}
+.project-16-carousel-item-05{
+	background-image: url('../images/project/project16/05.jpg');
+}
+.project-16-carousel-item-06{
+	background-image: url('../images/project/project16/06.jpg');
+}
+
+
+
+
+/*------------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in PUBLI  */
+/*------------------------------------------------------------------------------*/
+
+.project-17-carousel-item-01{
+	background-image: url('../images/project/project17/01.jpg');
+}
+.project-17-carousel-item-02{
+	background-image: url('../images/project/project17/02.jpg');
+}
+.project-17-carousel-item-03{
+	background-image: url('../images/project/project17/03.jpg');
+}
+.project-17-carousel-item-04{
+	background-image: url('../images/project/project17/04.jpg');
+}
+
+
+
+
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in YOM  */
+/*----------------------------------------------------------------------------*/
+
+
+
+/*.project-18-carousel-item-01{
+	background-image: url('../images/project/project18/01.jpg');
+}
+.project-18-carousel-item-02{
+	background-image: url('../images/project/project18/02.jpg');
+}
+.project-18-carousel-item-03{
+	background-image: url('../images/project/project18/03.jpg');
+}
+.project-18-carousel-item-04{
+	background-image: url('../images/project/project18/04.jpg');
+}
+*/
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in MYLES  */
+/*----------------------------------------------------------------------------*/
+
+
+/*.project-19-carousel-item-01{
+	background-image: url('../images/project/project19/01.jpg');
+}
+.project-19-carousel-item-02{
+	background-image: url('../images/project/project19/02.jpg');
+}
+.project-19-carousel-item-03{
+	background-image: url('../images/project/project19/03.jpg');
+}
+.project-19-carousel-item-04{
+	background-image: url('../images/project/project19/04.jpg');
+}
+*/
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in Eventos Deportivos  */
+/*----------------------------------------------------------------------------*/
+
+
+.project-20-carousel-item-01{
+	background-image: url('../images/project/project20/01.jpg');
+}
+.project-20-carousel-item-02{
+	background-image: url('../images/project/project20/02.jpg');
+}
+.project-20-carousel-item-03{
+	background-image: url('../images/project/project20/03.jpg');
+}
+.project-20-carousel-item-04{
+	background-image: url('../images/project/project20/04.jpg');
+}
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in Politic  */
+/*----------------------------------------------------------------------------*/
+
+
+.project-21-carousel-item-01{
+	background-image: url('../images/project/project21/01.jpg');
+}
+.project-21-carousel-item-02{
+	background-image: url('../images/project/project21/02.jpg');
+}
+.project-21-carousel-item-03{
+	background-image: url('../images/project/project21/03.jpg');
+}
+.project-21-carousel-item-04{
+	background-image: url('../images/project/project21/04.jpg');
+}
+.project-21-carousel-item-05{
+	background-image: url('../images/project/project21/05.jpg');
+}
+.project-21-carousel-item-06{
+	background-image: url('../images/project/project21/06.jpg');
+}
+.project-21-carousel-item-07{
+	background-image: url('../images/project/project21/07.jpg');
+}
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in ISKRA  */
+/*----------------------------------------------------------------------------*/
+
+
+.project-22-carousel-item-01{
+	background-image: url('../images/project/project22/01.jpg');
+}
+.project-22-carousel-item-02{
+	background-image: url('../images/project/project22/02.jpg');
+}
+
+
+
+
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in Festival  */
+/*----------------------------------------------------------------------------*/
+
+
+.project-23-carousel-item-01{
+	background-image: url('../images/project/project23/01.jpg');
+}
+.project-23-carousel-item-02{
+	background-image: url('../images/project/project23/02.jpg');
+}
+.project-23-carousel-item-03{
+	background-image: url('../images/project/project23/03.jpg');
+}
+
+
+
+
+
+
+
+/*Mobile Menu Logo*/
+.menu-collapser {
+    background-image: url('../images/logo.png');
+}
+

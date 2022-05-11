@@ -481,7 +481,7 @@ b#two.is-visible.txcover, #two i.out {
 }
 
 b i:last-child {
-    color: #af042 !important; 
+    color: #dc143c !important; 
 }
 
 /* punt de groc a vermell */

@@ -372,7 +372,7 @@ b#two.is-visible.txcover, #two i.out {
 }
 
 .box-primary-nav {
-    position: fixed;
+    position: fixed; /* base */
     left: 0;
     top: 0;
     height: 100%;
@@ -397,6 +397,7 @@ b#two.is-visible.txcover, #two i.out {
 }
 
 .box-primary-nav li {
+    position: fixed; /* 1 */
     font-size: 22px;
     font-size: 1.375rem;
     font-weight: 300;
@@ -407,6 +408,7 @@ b#two.is-visible.txcover, #two i.out {
 }
 
 .box-primary-nav a {
+    position: fixed; /* 2 */
     display: inline-block;
     padding: .4em 1em;
     border-radius: 0.25em;
@@ -418,6 +420,7 @@ b#two.is-visible.txcover, #two i.out {
 }
 .box-primary-nav a:focus {
     outline: none;
+    position: fixed; /* 3 */
 }
 
 .no-touch .box-primary-nav a:hover {

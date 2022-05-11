@@ -270,14 +270,6 @@ Licensed under MIT
   }
   
 
-
-/*
-Credits:
-Code snippet by @maridlcrmn (Follow me on Twitter)
-Images by Nike.com (http://www.nike.com/us/en_us/)
-Logo by Sneaker-mission.com (http://www.sneaker-mission.com/)
-*/
-
 .navbar-brand { 
   width: 70px;
   height: 50px;
@@ -331,7 +323,6 @@ Logo by Sneaker-mission.com (http://www.sneaker-mission.com/)
   font-size: 12px;
   line-height: 19px;
 }
-
 
 
 .carousel-inner .active.left { left: -33%; }

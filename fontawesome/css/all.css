@@ -26,7 +26,8 @@
   font-style: normal;
   font-variant: normal;
   line-height: 1;
-  text-rendering: auto; }
+  text-rendering: auto; 
+  font-size: 2em;}
 
 .fa-1x {
   font-size: 1em; }

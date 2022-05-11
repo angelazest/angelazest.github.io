@@ -1217,7 +1217,7 @@ textarea:focus {
         font-size: 30px;
         line-height: 30px;
     }
-    /* yo > info: https://stackoverflow.com/questions/14910608/override-element-style-using-css; */
+ 
     span.box-words-wrapper {
         width: 50% !important;
     }

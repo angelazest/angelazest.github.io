@@ -311,12 +311,17 @@ b#two.is-visible.txcover, #two i.out {
     position: absolute;
     background-color: #393939;
     right: 0;
-    -webkit-transition: -webkit-transform .3s, top .3s, background-color 0s;
+    
+    
+   /* -webkit-transition: -webkit-transform .3s, top .3s, background-color 0s;
     -webkit-transition: top .3s, background-color 0s, -webkit-transform .3s;
     transition: top .3s, background-color 0s, -webkit-transform .3s;
     transition: transform .3s, top .3s, background-color 0s;
-    transition: transform .3s, top .3s, background-color 0s, -webkit-transform .3s;
+    transition: transform .3s, top .3s, background-color 0s, -webkit-transform .3s;  */
 }
+    
+    
+    
 
 .box-primary-nav-trigger .box-menu-icon::before {
     top: -5px;
@@ -367,8 +372,12 @@ b#two.is-visible.txcover, #two i.out {
 .box-primary-nav-trigger .box-menu-icon {
     left: auto;
     right: 1em;
-    -webkit-transform: translateX(0) translateY(-50%);
-    transform: translateX(0) translateY(-50%);
+    
+    
+  /*  -webkit-transform: translateX(0) translateY(-50%);
+    transform: translateX(0) translateY(-50%); */
+    
+    
 }
 
 .box-primary-nav {
@@ -384,7 +393,8 @@ b#two.is-visible.txcover, #two i.out {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     overflow: auto;
-    -webkit-overflow-scrolling: touch;
+    
+/*  -webkit-overflow-scrolling: touch;
     -webkit-transform: translateY(-100%);
     transform: translateY(-100%);
     -webkit-transition-property: -webkit-transform;
@@ -392,7 +402,9 @@ b#two.is-visible.txcover, #two i.out {
     transition-property: transform;
     transition-property: transform, -webkit-transform;
     -webkit-transition-duration: 0.4s;
-    /* transition-duration: 0.4s;*/
+   transition-duration: 0.4s;*/
+    
+    
     list-style: none;
 }
 
@@ -410,8 +422,12 @@ b#two.is-visible.txcover, #two i.out {
     display: inline-block;
     padding: .4em 1em;
     border-radius: 0.25em;
-    -webkit-transition: all 0.2s;
-    transition: all 0.2s;
+    
+    
+    /* -webkit-transition: all 0.2s;
+    transition: all 0.2s; */
+    
+    
     color: #fff;
     text-decoration: none;
     font-weight: bold;

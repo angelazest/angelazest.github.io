@@ -849,8 +849,13 @@ footer {
 }
 
 .copyright {
-    color: #ccc;
-    margin-bottom: 0;
+  color: #ccc;
+  margin-bottom: 0;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
 
 footer img {

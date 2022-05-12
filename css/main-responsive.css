@@ -10,7 +10,6 @@
   }
 }
 
-
 /* Larger than desktop */
 @media (max-width: 992px) {
   .container{
@@ -25,7 +24,7 @@
   .col-md-9 {
     padding: 0;
   }
-   /* yo */
+   /* me */
   div.col-md-12 {
         padding: 0;
   }
@@ -33,13 +32,13 @@
 
 /* Larger than tablet */
 @media (max-width: 768px) {
-  .container{
+  .container {
     width: 668px;
     /*padding-left: 50px;
     padding-right: 50px;*/
     padding: 0;
   }
-  .text-left, .text-right, .mastfoot, .credits, .services-item{
+  .text-left, .text-right, .mastfoot, .credits, .services-item {
     text-align: center;
   }
   .img-responsive{
@@ -72,7 +71,7 @@
     width: 48% !important;
     margin: 1% !important;
   }
-  .works-masonry-container .works-item-full-width, .works-masonry-container .works-item-full-width-spaced{
+  .works-masonry-container .works-item-full-width, .works-masonry-container .works-item-full-width-spaced {
     width: 100% !important;
     margin: 0 !important;
   }
@@ -107,7 +106,7 @@
 
 /*iPhone 6 Landscape Mode*/
 @media screen and (max-width: 667px) {
-  .container{
+  .container {
     width: 567px;
     padding-left: 50px;
     padding-right: 50px;
@@ -117,7 +116,7 @@
 
 /*Google Nexus and Other Large Smart Phones v1*/
 @media screen and (max-width: 600px) {
-  .container{
+  .container {
     width: 500px;
     padding-left: 50px;
     padding-right: 50px;
@@ -126,19 +125,19 @@
 
 /*iPhone Landscape Mode and Mediium Smart Phones*/
 @media screen and (max-width: 480px) {
-  .container{
+  .container {
     width: 400px;
     padding-left: 40px;
     padding-right: 40px;
   }
   .works-masonry-container .works-item, .works-masonry-container .works-item-one-third, 
   .works-masonry-container .works-item-two-third, .works-masonry-container .works-item-one-half,
-  .works-masonry-container .works-item-one-fourth{
+  .works-masonry-container .works-item-one-fourth {
     width: 100% !important;
   }
   .works-masonry-container .works-item-spaced, .works-masonry-container .works-item-one-third-spaced, 
   .works-masonry-container .works-item-two-third-spaced, .works-masonry-container .works-item-one-half-spaced,
-  .works-masonry-container .works-item-one-fourth-spaced{
+  .works-masonry-container .works-item-one-fourth-spaced {
     width: 98% !important;
     margin: 1% !important;
   }
@@ -146,11 +145,11 @@
     font-size: 24px;
     line-height: 31px;
   } 
-  .welcome-heading h1 span, .caption h1, .caption h3, .news-post h1{
+  .welcome-heading h1 span, .caption h1, .caption h3, .news-post h1 {
     font-size: 18px;
     line-height: 25px;
   }
-  .welcome-heading h1 span, .caption h1{
+  .welcome-heading h1 span, .caption h1 {
     padding: 10px 10px 10px 14px;
   }
   ul.slimmenu.collapsed li .sub-collapser, ul.slimmenu > li > a:first-child{
@@ -158,22 +157,22 @@
     line-height: 23px;
     padding: 3px 0;
   }
-  ul.slimmenu{
+  ul.slimmenu {
     padding: 25px 25px 50px;
   }
-  ul.slimmenu li a{
+  ul.slimmenu li a {
     padding: 3px 0;
   }
-  .elements-counter{
+  .elements-counter {
     width: 100%;
     display: block;
     margin-bottom: 25px;
   }
-  .elements-counter .number{
+  .elements-counter .number {
     font-size: 48px;
     line-height: 55px;
   }
-  .works-item-inner h3{
+  .works-item-inner h3 {
     font-size: 14px;
     line-height: 21px;
   }
@@ -191,7 +190,7 @@
 
 /*iPhone 6 Portrait Mode*/
 @media screen and (max-width: 375px) {
-  .container{
+  .container {
     width: 335px;
     /* padding-left: 10px;
     padding-right: 10px; */

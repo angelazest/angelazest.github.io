@@ -453,6 +453,7 @@ b#two.is-visible.txcover, #two i.out {
 .box-primary-nav.is-visible {
     -webkit-transform: translateY(0);
     transform: translateY(0);
+    position: fixed;
 }
 
 .box-primary-nav {

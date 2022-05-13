@@ -498,7 +498,7 @@ b i:last-child {
     /*letter-spacing: 4px;*/
     font-family: 'Titillium Web', sans-serif;
     font-weight: bold;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #d1cecf;
     line-height: 1.7

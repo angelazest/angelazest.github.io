@@ -831,7 +831,7 @@ b i:last-child {
     display: inline-block;
     margin: 0 auto;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 .portfolio-inner {

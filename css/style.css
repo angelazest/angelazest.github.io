@@ -265,7 +265,8 @@ b#two.is-visible.txcover, #two i.out {
 
 .box-logo {
     display: block;
-    padding: 10px 20px 10px 20px;
+    padding: 5px 20px 5px 20px;
+    background-color: #f3ecec;
 }
 
 .box-primary-nav-trigger {

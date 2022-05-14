@@ -218,6 +218,7 @@ h3 {
     transform: translate3d(0, 0, 0);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
+    background-color: #f3ecec;
 }
 
 .box-header.is-fixed {

@@ -977,7 +977,7 @@ border: 0px solid #000000;
     padding-top: 100px;
 }
 
-.top-bar-train h1 {
+.top-bar-train.top-bar-train h1 {
    color: #f4f3f7;
 }
 

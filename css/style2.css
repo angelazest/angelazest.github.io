@@ -992,6 +992,9 @@ border: 0px solid #000000;
 .top-bar p a {
     color: #777;
 }
+.top-bar-train p a {
+    color: #f4f3f7;
+}
 
 .top-bar p a:hover,
 .top-bar p a:focus {

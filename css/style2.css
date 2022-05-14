@@ -944,6 +944,16 @@ border: 0px solid #000000;
 .top-bar {
     color: #333;
     padding: 150px 0 400px;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+}
+
+.top-bar-hola{
+    color: #333;
+    padding: 150px 0 400px;
     background: -webkit-linear-gradient( rgba(255, 255, 255, .3), rgba(255, 255, 255, .3)), url(../images/0.jpg);
     /* background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/0.jpg);*/
     background-size: 100%;
@@ -951,7 +961,11 @@ border: 0px solid #000000;
     background-repeat: no-repeat;
     background-position: center center;
     text-align: center;
-}
+
+
+
+
+
 
 .top-bar h1 {
     font-size: 50px;

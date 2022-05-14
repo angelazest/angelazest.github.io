@@ -208,7 +208,7 @@ h3 {
     height: 60px;
     /* background: transparent;*/
     box-shadow: none;
-    background-color: #f3ecec;
+    
 }
 
 .box-header {
@@ -218,7 +218,7 @@ h3 {
     transform: translate3d(0, 0, 0);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    background-color: #f3ecec;
+    background-color: #f8f7f7;
 }
 
 .box-header.is-fixed {

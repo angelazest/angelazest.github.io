@@ -969,15 +969,18 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
-
-
 .top-bar h1 {
     font-size: 50px;
     text-transform: uppercase;
     font-weight: 100;
-    color: #4604c9;;
+    color: #4604c9;
     padding-top: 100px;
 }
+
+.top-bar-train h1 {
+   color: #f4f3f7;
+}
+
 
 .top-bar p {
     font-size: 15px;

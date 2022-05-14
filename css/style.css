@@ -230,7 +230,7 @@ b#two.is-visible.txcover, #two i.out {
 }
 
 .box-header {
-    height: 80px;
+    height: 60px;
     background: transparent;
     box-shadow: none;
 }

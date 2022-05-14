@@ -960,9 +960,9 @@ border: 0px solid #000000;
     background-repeat: no-repeat;
     background-position: center center;
 }
-.top-bar-train{
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);*/ 
+.top-bar-centro{
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);*/ 
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;

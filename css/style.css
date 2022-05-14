@@ -269,6 +269,10 @@ b#two.is-visible.txcover, #two i.out {
     padding: 5px 20px 5px 20px;
     background-color: #f8f7f7;
 }
+.box-logo-portfolio {
+    display: block;
+    padding: 5px 20px 5px 20px;
+}
 
 .box-primary-nav-trigger {
     position: absolute;

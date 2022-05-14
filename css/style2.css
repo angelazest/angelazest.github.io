@@ -988,14 +988,14 @@ border: 0px solid #000000;
     font-weight: 500;
     color: #777;
 }
-div.top-bar.top-bar-train p {
+.top-bar-train p {
     color: #f4f3f7;
 }
 
 .top-bar p a {
     color: #777;
 }
-div.top-bar.top-bar-train p a {
+.top-bar-train p a {
     color: #f4f3f7;
 }
 

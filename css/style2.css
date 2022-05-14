@@ -989,7 +989,7 @@ border: 0px solid #000000;
     color: #777;
 }
 
-.top-bar p a {
+.top-bar.top-bar-train p a {
     color: #777;
 }
 .top-bar-train p a {

@@ -952,9 +952,15 @@ border: 0px solid #000000;
 }
 
 .top-bar-hola{
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .3), rgba(255, 255, 255, .3)), url(../images/0.jpg);
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/0.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/0.jpg);*/  
 }
+
+.top-bar-train{
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);*/  
+}
+
 
 .top-bar h1 {
     font-size: 50px;

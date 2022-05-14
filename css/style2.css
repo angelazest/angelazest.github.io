@@ -205,8 +205,8 @@ h3 {
 }
 
 .box-header {
-    height: 80px;
-    background: transparent;
+    height: 60px;
+    /* background: transparent;*/
     box-shadow: none;
 }
 

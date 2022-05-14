@@ -933,32 +933,42 @@ border: 0px solid #000000;
 }
 
 
-/* Pagina intro
+/* 
 ==========================================================================================================*/
 
 
 .top-bar {
     color: #333;
     padding: 150px 0 400px;
+    text-align: center;
+}
+
+.top-bar-hola {
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/0.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/0.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
-    text-align: center;
-}
-
-.top-bar.top-bar-hola {
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/0.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/0.jpg);
-    /*background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;*/
 }
 
 .top-bar-train{
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);*/  
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);*/ 
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
+.top-bar-train{
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);*/ 
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 
 
 .top-bar h1 {

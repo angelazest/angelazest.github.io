@@ -960,7 +960,7 @@ border: 0px solid #000000;
     background-repeat: no-repeat;
     background-position: center center;
 }
-.top-bar-centro{
+.top-bar-centro {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);
     background-size: cover;
@@ -1005,10 +1005,10 @@ border: 0px solid #000000;
 .top-bar-train p a {
     color: #f4f3f7;
 }
-
 .top-bar-centro p a {
-    color: #f4f3f7;
+    color: #4604c9;
 }
+
 
 .top-bar p a:hover,
 .top-bar p a:focus {

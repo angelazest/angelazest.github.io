@@ -994,16 +994,19 @@ border: 0px solid #000000;
 .top-bar-train p {
     color: #f4f3f7;
 }
+.top-bar-centro p {
+    color: #777;
+}
 
 .top-bar p a {
     color: #777;
 }
 .top-bar-train p a {
-    color: green;
+    color: #f4f3f7;
 }
 
-.top-bar-centro p a:hover{
-    color: #4604c9;
+.top-bar-centro p a {
+    color: #f4f3f7;
 }
 
 .top-bar p a:hover,

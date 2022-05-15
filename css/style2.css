@@ -1040,9 +1040,7 @@ border: 0px solid #000000;
 .top-bar-monstru p {
     color: #f4f3f7;
 }
-.top-bar-farma p {
-    color: #f4f3f7;
-}
+
 
 
 .top-bar p a {
@@ -1061,7 +1059,7 @@ border: 0px solid #000000;
     color: #f4f3f7;
 }
 .top-bar-farma p a {
-    color: ##9a0d18;
+    color: #9a0d18;
 }
 
 
@@ -1070,6 +1068,13 @@ border: 0px solid #000000;
     color: #555;
     text-decoration: none;
 }
+.top-bar-farma p a:hover,
+.top-bar p a:focus {
+    color: #730741;
+    text-decoration: none;
+}
+
+
 
 .social-ul {
     list-style: none;

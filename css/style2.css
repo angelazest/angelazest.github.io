@@ -981,6 +981,9 @@ border: 0px solid #000000;
    color: #f4f3f7;
 }
 
+.top-bar.top-bar-centro h1 {
+   color: #f4f3f7;
+}
 
 .top-bar p {
     font-size: 15px;
@@ -996,6 +999,10 @@ border: 0px solid #000000;
     color: #777;
 }
 .top-bar-train p a {
+    color: #f4f3f7;
+}
+
+.top-bar-centro p a {
     color: #f4f3f7;
 }
 

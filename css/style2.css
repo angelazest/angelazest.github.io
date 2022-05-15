@@ -978,6 +978,15 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
+.top-bar-monstru {
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/004.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/004.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 .top-bar h1 {
     font-size: 50px;
     text-transform: uppercase;
@@ -996,6 +1005,10 @@ border: 0px solid #000000;
 .top-bar.top-bar-fuster h1 {
    color: #4536b4;
 }
+.top-bar.top-bar-monstru h1 {
+   color: #f4f3f7;
+}
+
 
 .top-bar p {
     font-size: 15px;
@@ -1008,6 +1021,9 @@ border: 0px solid #000000;
 }
 .top-bar-centro p {
     color: #777;
+}
+.top-bar-monstru p {
+    color: #f4f3f7;
 }
 
 
@@ -1022,6 +1038,9 @@ border: 0px solid #000000;
 }
 .top-bar-fuster p a {
     color: #4536b4;
+}
+.top-bar-monstru p a {
+    color: #f4f3f7;
 }
 
 

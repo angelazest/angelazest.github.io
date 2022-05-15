@@ -962,7 +962,7 @@ border: 0px solid #000000;
 }
 .top-bar-centro{
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);*/ 
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;

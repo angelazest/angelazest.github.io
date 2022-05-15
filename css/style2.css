@@ -987,6 +987,18 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
+.top-bar-farma {
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/005.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/005.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+
+
 .top-bar h1 {
     font-size: 50px;
     text-transform: uppercase;

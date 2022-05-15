@@ -1002,7 +1002,7 @@ border: 0px solid #000000;
     color: #f4f3f7;
 }
 
-.top-bar-centro p a {
+.top-bar-centro p a:hover{
     color: #777;
 }
 

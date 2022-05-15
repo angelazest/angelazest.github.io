@@ -1008,6 +1008,9 @@ border: 0px solid #000000;
 .top-bar.top-bar-monstru h1 {
    color: #f4f3f7;
 }
+.top-bar.top-bar-farma h1 {
+   color: #f4f3f7;
+}
 
 
 .top-bar p {
@@ -1025,6 +1028,9 @@ border: 0px solid #000000;
 .top-bar-monstru p {
     color: #f4f3f7;
 }
+.top-bar-farma p {
+    color: #f4f3f7;
+}
 
 
 .top-bar p a {
@@ -1040,6 +1046,9 @@ border: 0px solid #000000;
     color: #4536b4;
 }
 .top-bar-monstru p a {
+    color: #f4f3f7;
+}
+.top-bar-farma p a {
     color: #f4f3f7;
 }
 

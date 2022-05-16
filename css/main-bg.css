@@ -144,7 +144,7 @@
 
 
 /*--------------------------------------------------------------------------*/
-/*This is main CSS file that intializes BG Images used in DUATLON 2012 */
+/*This is main CSS file that intializes BG Images used in Politic */
 /*--------------------------------------------------------------------------*/
 
 
@@ -157,6 +157,19 @@
 .project-06-carousel-item-03{
 	background-image: url('../images/project/project06/03.jpg');
 }
+.project-06-carousel-item-04{
+	background-image: url('../images/project/project06/04.jpg');
+}
+.project-06-carousel-item-05{
+	background-image: url('../images/project/project06/05.jpg');
+}
+.project-06-carousel-item-06{
+	background-image: url('../images/project/project06/06.jpg');
+}
+.project-06-carousel-item-07{
+	background-image: url('../images/project/project06/07.jpg');
+}
+
 
 
 

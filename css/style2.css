@@ -952,7 +952,8 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
-.top-bar-train {
+/* Train to Hollywood */
+.top-bar-uno {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);
     background-size: cover;
@@ -960,7 +961,9 @@ border: 0px solid #000000;
     background-repeat: no-repeat;
     background-position: center center;
 }
-.top-bar-centro {
+
+
+.top-bar-dos {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/002.jpg);
     background-size: cover;
@@ -968,15 +971,11 @@ border: 0px solid #000000;
     background-repeat: no-repeat;
     background-position: center center;
 }
-.top-bar-fuster {
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/003.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/003.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-.top-bar-monstru {
+
+/* L'Hortet */
+
+/* Marxa BTT*/
+.top-bar-cuatro {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/004.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/004.jpg);
     background-size: cover;
@@ -984,7 +983,9 @@ border: 0px solid #000000;
     background-repeat: no-repeat;
     background-position: center center;
 }
-.top-bar-farma {
+
+/* Sector Farma */
+.top-bar-cinco {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/005.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/005.jpg);
     background-size: cover;
@@ -992,7 +993,9 @@ border: 0px solid #000000;
     background-repeat: no-repeat;
     background-position: center center;
 }
-.top-bar-polit {
+
+/* Politic */
+.top-bar-seis {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/006.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/006.jpg);
     background-size: cover;
@@ -1000,6 +1003,18 @@ border: 0px solid #000000;
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+/* Magazine */
+.top-bar-siete {
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/006.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/006.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
 .top-bar-run {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/011.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/011.jpg);

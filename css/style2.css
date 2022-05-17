@@ -1006,8 +1006,8 @@ border: 0px solid #000000;
 
 /* Magazine */
 .top-bar-siete {
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/006.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/006.jpg);
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/007.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/007.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;

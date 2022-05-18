@@ -1054,8 +1054,12 @@ border: 0px solid #000000;
     text-decoration: none;
 }
 
-/* Colour subtitle
+/* Colour title & subtitle
 ======================================== */
+
+#title {
+    color: ##838181;
+}
 
 #subtitle {
   color: #797474;

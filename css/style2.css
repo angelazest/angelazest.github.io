@@ -1031,7 +1031,7 @@ border: 0px solid #000000;
     font-size: 50px;
     text-transform: uppercase;
     font-weight: 100;
-    color: #fbfbfb;
+    color: #ffff;
     padding-top: 158px;
 }
 
@@ -1041,11 +1041,11 @@ border: 0px solid #000000;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 500;
-    /* color: #ffff; */
+   color: #ffff; */
 }
 
 .top-bar p a {
-    color: #fbfbfb;
+    color: #ffff;
 }
 p#title-grey a:hover{
     color: #blue;

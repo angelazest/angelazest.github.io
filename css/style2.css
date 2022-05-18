@@ -1047,12 +1047,13 @@ border: 0px solid #000000;
 .top-bar p a {
     color: #fbfbfb;
 }
-p#title-grey a {
-    color: #555;
-}
-p#title-grey a:hover{
+p#title-grey a,
+p#title-grey a:hove{
     color: #blue;
 }
+
+ 
+
 
 
 .top-bar p a:hover,

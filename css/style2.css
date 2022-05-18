@@ -1065,8 +1065,8 @@ border: 0px solid #000000;
 /* Colour title & subtitle
 ======================================== */
 
-#title {
-    color: ##838181;
+h1#title {
+    color: #838181;
 }
 
 #subtitle {

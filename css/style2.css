@@ -1056,10 +1056,7 @@ border: 0px solid #000000;
     color: #ffff;
 }*/
 
-div.top-bar.top-bar-siete p#subtitle a {
-    color: #17aa2a;
-}
- 
+
 .top-bar p a:hover,
 .top-bar p a:focus {
     color: #555;
@@ -1077,7 +1074,11 @@ p#subtitle {
   color: #797474;
 }
 p#subtitle a {
-  color: ##171819;
+  color: #171819;
+}
+
+div.top-bar.top-bar-siete p#subtitle a {
+    color: #17aa2a;
 }
 
 

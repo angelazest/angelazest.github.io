@@ -1041,16 +1041,12 @@ border: 0px solid #000000;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 500;
-   color: #ffff;
+    color: #ffff;
 }
 
 .top-bar p a {
     color: #ffff;
 }
-p#title-grey a:hover{
-    color: #blue;
-}
-
  
 .top-bar p a:hover,
 .top-bar p a:focus {
@@ -1061,12 +1057,16 @@ p#title-grey a:hover{
 /* Colour subtitle
 ======================================== */
 
-#title-grey {
-  color: 797474;
+#subtitle {
+  color: #797474;
 }
 
-
-
+p#title-grey a:link{
+   color: #797474;
+}
+p#title-grey a:hover{
+    color: #23131;
+}
 
 
 .social-ul {

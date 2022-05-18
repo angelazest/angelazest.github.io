@@ -1035,7 +1035,8 @@ border: 0px solid #000000;
     padding-top: 158px;
 }
 
-
+/* Link subtitle
+======================================== */
 .top-bar p {
     font-size: 1.5em;
     text-transform: uppercase;
@@ -1048,6 +1049,9 @@ border: 0px solid #000000;
 }
 p#title-grey a {
     color: #555;
+}
+p#title-grey a:hover {
+    color: #blue;
 }
 
 

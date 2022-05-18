@@ -933,8 +933,8 @@ border: 0px solid #000000;
 }
 
 
-/* 
-==========================================================================================================*/
+/* Main images top pages
+========================================================================================================== */
 
 
 .top-bar {
@@ -942,6 +942,7 @@ border: 0px solid #000000;
     padding: 150px 0 400px;
     text-align: center;
 }
+
 
 .top-bar-hola {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/0.jpg);
@@ -952,7 +953,7 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
-/* Train to Hollywood */
+
 .top-bar-uno {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/001.jpg);
@@ -972,9 +973,8 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
-/* L'Hortet */
+/* box three */
 
-/* Marxa BTT*/
 .top-bar-cuatro {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/004.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/004.jpg);
@@ -984,7 +984,6 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
-/* Sector Farma */
 .top-bar-cinco {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/005.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/005.jpg);
@@ -994,7 +993,6 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
-/* Politic */
 .top-bar-seis {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/006.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/006.jpg);
@@ -1004,7 +1002,6 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
-/* Magazine */
 .top-bar-siete {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/007.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/007.jpg);
@@ -1038,7 +1035,7 @@ border: 0px solid #000000;
     padding-top: 158px;
 }
 
-
+/* -----
 .top-bar.top-bar-uno h1 {
    color: #fbfbfb;
 }
@@ -1054,7 +1051,7 @@ border: 0px solid #000000;
 .top-bar.top-bar-farma h1 {
    color: #f4f3f7;
 }
-
+------- */
 
 .top-bar p {
     font-size: 1.7em;

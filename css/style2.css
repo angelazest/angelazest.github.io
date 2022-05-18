@@ -1,5 +1,4 @@
 
-
 /* Google fonts family
 ==================================================*/
 
@@ -1053,8 +1052,12 @@ border: 0px solid #000000;
     color: #ffff;
 }
 
-.top-bar p a {
+/*.top-bar p a {
     color: #ffff;
+}*/
+
+div.top-bar.top-bar-siete p#subtitle a {
+    color: #17aa2a;
 }
  
 .top-bar p a:hover,

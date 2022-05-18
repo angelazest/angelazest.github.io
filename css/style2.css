@@ -1050,8 +1050,7 @@ border: 0px solid #000000;
 p#title-grey a {
     color: #555;
 }
-p#title-grey a:hover,
-p#title-grey a:focus {
+p#title-grey a:hover{
     color: #blue;
 }
 

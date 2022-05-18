@@ -1035,23 +1035,6 @@ border: 0px solid #000000;
     padding-top: 158px;
 }
 
-/* -----
-.top-bar.top-bar-uno h1 {
-   color: #fbfbfb;
-}
-.top-bar.top-bar-centro h1 {
-   color: #333;
-}
-.top-bar.top-bar-fuster h1 {
-   color: #4536b4;
-}
-.top-bar.top-bar-monstru h1 {
-   color: #f4f3f7;
-}
-.top-bar.top-bar-farma h1 {
-   color: #f4f3f7;
-}
-------- */
 
 .top-bar p {
     font-size: 1.5em;
@@ -1059,24 +1042,6 @@ border: 0px solid #000000;
     font-weight: 500;
     color: #ffff;
 }
-
-/* -----
-
-.top-bar-train p {
-    color: #f4f3f7;
-}
-.top-bar-centro p {
-    color: #777;
-}
-.top-bar-monstru p {
-    color: #f4f3f7;
-}
-.top-bar-farma p {
-    color: #f4f3f7;
-} 
-------- */
-
-
 
 .top-bar p a {
     color: #fbfbfb;
@@ -1104,12 +1069,6 @@ border: 0px solid #000000;
     color: #555;
     text-decoration: none;
 }
-.top-bar-farma p a:hover,
-.top-bar p a:focus {
-    color: #9a0d18;
-    text-decoration: none;
-}
-
 
 
 .social-ul {

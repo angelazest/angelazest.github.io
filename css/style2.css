@@ -1046,22 +1046,9 @@ border: 0px solid #000000;
 .top-bar p a {
     color: #fbfbfb;
 }
-.top-bar-train p a {
-    color: #f4f3f7;
+p#title-grey a {
+    color: #555;
 }
-.top-bar-centro p a {
-    color: #4536b4;
-}
-.top-bar-fuster p a {
-    color: #4536b4;
-}
-.top-bar-monstru p a {
-    color: #f4f3f7;
-}
-.top-bar-farma p a {
-    color: #f4f3f7;
-}
-
 
 
 .top-bar p a:hover,

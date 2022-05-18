@@ -1034,7 +1034,8 @@ border: 0px solid #000000;
 
 
 
-
+/* Link title
+======================================== */
 .top-bar h1 {
     font-size: 50px;
     text-transform: uppercase;
@@ -1073,12 +1074,6 @@ h1#title {
   color: #797474;
 }
 
-p#title-grey a:link{
-   color: #797474;
-}
-p#title-grey a:hover{
-    color: #23131;
-}
 
 
 .social-ul {

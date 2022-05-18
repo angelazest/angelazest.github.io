@@ -1048,14 +1048,11 @@ border: 0px solid #000000;
     color: #fbfbfb;
 }
 p#title-grey a,
-p#title-grey a:hove{
+p#title-grey a:hover{
     color: #blue;
 }
 
  
-
-
-
 .top-bar p a:hover,
 .top-bar p a:focus {
     color: #555;

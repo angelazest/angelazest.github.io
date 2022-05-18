@@ -938,7 +938,7 @@ border: 0px solid #000000;
 
 
 .top-bar {
-    color: #333;
+    /* color: #333;  */
     padding: 150px 0 400px;
     text-align: center;
 }

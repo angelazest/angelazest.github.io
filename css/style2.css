@@ -1110,7 +1110,16 @@ p#subtitle {
   color: #171819;
 }*/
 
-div.top-bar.top-bar-siete p#subtitle a {
+div.top-bar.top-bar-siete p#subtitle a:link {
+    color: #17aa2a;
+}
+div.top-bar.top-bar-siete p#subtitle a:visited {
+    color: #17aa2a;
+}
+div.top-bar.top-bar-siete p#subtitle a:hover {
+    color: #cd157f;
+}
+div.top-bar.top-bar-siete p#subtitle a:active {
     color: #17aa2a;
 }
 

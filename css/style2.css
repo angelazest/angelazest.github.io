@@ -1113,16 +1113,16 @@ p#subtitle-grey {
 /* custom colour title & subtitle uno
 ======================================== */
 
-div.top-bar.top-bar-uno p#subtitlewhite a:link {
+div.top-bar.top-bar-uno p#subtitle-white a:link {
     color: #0109dc;
 }
-div.top-bar.top-bar-uno p#subtitlewhite a:visited {
+div.top-bar.top-bar-uno p#subtitle-white a:visited {
     color: #0109dc;
 }
-div.top-bar.top-bar-uno p#subtitlewhite a:hover {
+div.top-bar.top-bar-uno p#subtitle-white a:hover {
     color: #ffff;
 }
-div.top-bar.top-bar-uno p#subtitlewhite a:active {
+div.top-bar.top-bar-uno p#subtitle-white a:active {
    color: #0109dc;
 }
 

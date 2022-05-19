@@ -1096,7 +1096,7 @@ border: 0px solid #000000;
     text-decoration: none;
 }
 
-/* Colour title & subtitle
+/* custom colour title & subtitle
 ======================================== */
 
 h1#title {
@@ -1109,6 +1109,31 @@ p#subtitle {
 /* p#subtitle a {
   color: #171819;
 }*/
+
+
+/* custom colour title & subtitle uno
+======================================== */
+
+div.top-bar.top-bar-siete p#subtitle a:link {
+    color: #ffff;
+}
+div.top-bar.top-bar-siete p#subtitle a:visited {
+    color: #ffff;
+}
+div.top-bar.top-bar-siete p#subtitle a:hover {
+    color: #0f0f0f;
+}
+div.top-bar.top-bar-siete p#subtitle a:active {
+    color: #ffff;
+}
+
+
+
+
+
+
+/* custom colour title & subtitle siete
+======================================== */
 
 div.top-bar.top-bar-siete p#subtitle a:link {
     color: #17aa2a;

@@ -1045,7 +1045,8 @@ border: 0px solid #000000;
 
 /* Link subtitle
 ======================================== */
-.top-bar.top-bar-uno, .top-bar.top-bar-dos, .top-bar.top-bar-cuatro p {
+.top-bar.top-bar-uno, .top-bar.top-bar-dos, .top-bar.top-bar-cuatro, .top-bar.top-bar-cinco, .top-bar.top-bar-seis, .top-bar.top-bar-siete,
+    .top-bar.top-bar-ocho, .top-bar.top-bar-nueve, .top-bar.top-bar-nueve p {
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 500;

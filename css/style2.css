@@ -1045,7 +1045,7 @@ border: 0px solid #000000;
 
 /* Link subtitle
 ======================================== */
-.top-bar.top-bar-uno p,top-bar.top-bar-dos p,top-bar.top-bar-cuatro p {
+.top-bar.top-bar-uno p, top-bar.top-bar-dos p ,top-bar.top-bar-cuatro p {
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 500;

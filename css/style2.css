@@ -1074,7 +1074,7 @@ border: 0px solid #000000;
     font-size: 50px;
     text-transform: uppercase;
     font-weight: 100;
-    color: #ffff;
+    color: #ffff; /* white */
     padding-top: 158px;
 }
 
@@ -1085,13 +1085,13 @@ border: 0px solid #000000;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 500;
-    color: #ffff;
+    color: #ffff;  /* white */
 }
 
 
 .top-bar p a:hover,
 .top-bar p a:focus {
-    color: #555;
+    /* color: #555;*/
     text-decoration: none;
 }
 
@@ -1105,24 +1105,21 @@ h1#title {
 p#subtitle {
   color: #797474;
 }
-/* p#subtitle a {
-  color: #171819;
-}*/
 
 
 /* custom colour title & subtitle uno
 ======================================== */
 
-div.top-bar.top-bar-siete p#subtitle a:link {
+div.top-bar.top-bar-uno p#subtitle a:link {
     color: #ffff;
 }
-div.top-bar.top-bar-siete p#subtitle a:visited {
+div.top-bar.top-bar-uno p#subtitle a:visited {
     color: #0109dc;
 }
-div.top-bar.top-bar-siete p#subtitle a:hover {
+div.top-bar.top-bar-uno p#subtitle a:hover {
     color: #ffff;
 }
-div.top-bar.top-bar-siete p#subtitle a:active {
+div.top-bar.top-bar-uno p#subtitle a:active {
     color: #ffff;
 }
 

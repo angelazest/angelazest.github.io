@@ -1089,7 +1089,6 @@ border: 0px solid #000000;
 }
 
 
-
 .top-bar p a:hover,
 .top-bar p a:focus {
     color: #555;
@@ -1142,7 +1141,7 @@ div.top-bar.top-bar-siete p#subtitle a:visited {
     color: #0109dc;
 }
 div.top-bar.top-bar-siete p#subtitle a:hover {
-    color: #cd157f;
+    color: #797474;
 }
 div.top-bar.top-bar-siete p#subtitle a:active {
     color: #0109dc;

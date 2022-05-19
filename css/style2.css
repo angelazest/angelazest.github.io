@@ -1132,16 +1132,16 @@ div.top-bar.top-bar-uno p#subtitle-white a:active {
 /* custom colour title & subtitle siete, cuatro
 ================================================================================ */
 
-div.top-bar.top-bar-siete p#subtitle-grey, div.top-bar.top-bar-cuatro p#subtitle-cuatro a:link {
+div.top-bar.top-bar-siete, div.top-bar.top-bar-cuatro p#subtitle-cuatro a:link {
     color: #0109dc;
 }
-div.top-bar.top-bar-siete p#subtitle-grey, div.top-bar.top-bar-cuatro p#subtitle-cuatro a:visited {
+div.top-bar.top-bar-siete, div.top-bar.top-bar-cuatro p#subtitle-cuatro a:visited {
     color: #0109dc;
 }
-div.top-bar.top-bar-siete p#subtitle-grey, div.top-bar.top-bar-cuatro p#subtitle-cuatro a:hover {
+div.top-bar.top-bar-siete, div.top-bar.top-bar-cuatro p#subtitle-cuatro a:hover {
     color: #797474;
 }
-div.top-bar.top-bar-siete p#subtitle-grey, div.top-bar.top-bar-cuatro p#subtitle-cuatro a:active {
+div.top-bar.top-bar-siete, div.top-bar.top-bar-cuatro p#subtitle-cuatro a:active {
     color: #0109dc;
 }
 

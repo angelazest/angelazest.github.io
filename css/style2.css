@@ -1111,7 +1111,7 @@ p#subtitle {
 ======================================== */
 
 div.top-bar.top-bar-uno p#subtitle a:link {
-    color: #ffff;
+    color: #0109dc;
 }
 div.top-bar.top-bar-uno p#subtitle a:visited {
     color: #0109dc;
@@ -1120,10 +1120,8 @@ div.top-bar.top-bar-uno p#subtitle a:hover {
     color: #ffff;
 }
 div.top-bar.top-bar-uno p#subtitle a:active {
-    color: #ffff;
+   color: #0109dc;
 }
-
-
 
 
 

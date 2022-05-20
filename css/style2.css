@@ -1110,23 +1110,27 @@ p#subtitle-grey {
 }
 
 
-/* custom colour subtitle uno, cuatro, cinco, ocho
+/* custom colour subtitle uno, cuatro, cinco, ocho, nueve
 ==============================================================================*/ 
 
 div.top-bar.top-bar-uno p#subtitle-white a:link, div.top-bar.top-bar-cuatro p#subtitle-white a:link, 
-div.top-bar.top-bar-cinco p#subtitle-white a:link, div.top-bar.top-bar-ocho p#subtitle-white a:link {
+div.top-bar.top-bar-cinco p#subtitle-white a:link, div.top-bar.top-bar-ocho p#subtitle-white a:link,
+div.top-bar.top-bar-nueve p#subtitle-white a:link {
     color: #0109dc;
 }
 div.top-bar.top-bar-uno p#subtitle-white a:visited, div.top-bar.top-bar-cuatro p#subtitle-white a:visited,
-div.top-bar.top-bar-cinco p#subtitle-white a:visited, div.top-bar.top-bar-ocho p#subtitle-white a:visited {
+div.top-bar.top-bar-cinco p#subtitle-white a:visited, div.top-bar.top-bar-ocho p#subtitle-white a:visited,
+div.top-bar.top-bar-nueve p#subtitle-white a:visited{
     color: #0109dc;
 }
 div.top-bar.top-bar-uno p#subtitle-white a:hover, div.top-bar.top-bar-cuatro p#subtitle-white a:hover,
-div.top-bar.top-bar-cinco p#subtitle-white a:hover, div.top-bar.top-bar-ocho p#subtitle-white a:hover {
+div.top-bar.top-bar-cinco p#subtitle-white a:hover, div.top-bar.top-bar-ocho p#subtitle-white a:hover,
+div.top-bar.top-bar-nueve p#subtitle-white a:hover {
     color: #ffff;
 }
 div.top-bar.top-bar-uno p#subtitle-white a:active, div.top-bar.top-bar-cuatro p#subtitle-white a:active,
-div.top-bar.top-bar-cinco p#subtitle-white a:active, div.top-bar.top-bar-ocho p#subtitle-white a:active{
+div.top-bar.top-bar-cinco p#subtitle-white a:active, div.top-bar.top-bar-ocho p#subtitle-white a:active,
+div.top-bar.top-bar-nueve p#subtitle-white a:active {
    color: #0109dc;
 }
 

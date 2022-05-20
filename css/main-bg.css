@@ -262,8 +262,6 @@
 /*--------------------------------------------------------------------------*/
 
 
-
-
 .project-11-carousel-item-01{
 	background-image: url('../images/project/project11/01.jpg');
 }
@@ -285,7 +283,7 @@
 
 
 /*--------------------------------------------------------------------------*/
-/*This is main CSS file that intializes BG Images used in GRÁFICAS SIAN  */
+/*This is main CSS file that intializes BG Images used Visual Thinking */
 /*--------------------------------------------------------------------------*/
 
 
@@ -295,12 +293,7 @@
 .project-12-carousel-item-02{
 	background-image: url('../images/project/project12/02.jpg');
 }
-.project-12-carousel-item-03{
-	background-image: url('../images/project/project12/03.jpg');
-}
-.project-12-carousel-item-04{
-	background-image: url('../images/project/project12/04.jpg');
-}
+
 
 
 

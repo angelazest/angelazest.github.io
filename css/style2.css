@@ -1054,7 +1054,7 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
-.top-bar-run {
+.top-bar-once{
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/011.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/011.jpg);
     background-size: cover;

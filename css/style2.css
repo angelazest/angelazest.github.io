@@ -1097,8 +1097,8 @@ border: 0px solid #000000;
 
 /* Link subtitle
 ======================================== */
-.top-bar.top-bar-uno p, .top-bar.top-bar-dos p, .top-bar.top-bar-cuatro p, .top-bar.top-bar-cinco p, .top-bar.top-bar-seis p, .top-bar.top-bar-siete p,
-    .top-bar.top-bar-ocho p, .top-bar.top-bar-nueve p, .top-bar.top-bar-once p {
+.top-bar.top-bar-uno p, .top-bar.top-bar-dos p, .top-bar.top-bar-cuatro p, .top-bar.top-bar-cinco p, .top-bar.top-bar-seis p, 
+.top-bar.top-bar-siete p, .top-bar.top-bar-ocho p, .top-bar.top-bar-nueve p, .top-bar.top-bar-once p {
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 500;
@@ -1135,16 +1135,19 @@ div.top-bar.top-bar-cuatro p#subtitle-white a:link, div.top-bar.top-bar-cinco p#
 div.top-bar.top-bar-ocho p#subtitle-white a:link, div.top-bar.top-bar-nueve p#subtitle-white a:link {
     color: #0109dc;
 }
+
 div.top-bar.top-bar-uno p#subtitle-white a:visited, div.top-bar.top-bar-dos p#subtitle-white a:visited,
 div.top-bar.top-bar-cuatro p#subtitle-white a:visited, div.top-bar.top-bar-cinco p#subtitle-white a:visited, 
 div.top-bar.top-bar-ocho p#subtitle-white a:visited, div.top-bar.top-bar-nueve p#subtitle-white a:visited{
     color: #0109dc;
 }
+
 div.top-bar.top-bar-uno p#subtitle-white a:hover, div.top-bar.top-bar-dos p#subtitle-white a:hover, 
 div.top-bar.top-bar-cuatro p#subtitle-white a:hover, div.top-bar.top-bar-cinco p#subtitle-white a:hover, 
 div.top-bar.top-bar-ocho p#subtitle-white a:hover, div.top-bar.top-bar-nueve p#subtitle-white a:hover {
     color: #ffff;
 }
+
 div.top-bar.top-bar-uno p#subtitle-white a:active, div.top-bar.top-bar-dos p#subtitle-white a:active, 
 div.top-bar.top-bar-cuatro p#subtitle-white a:active, div.top-bar.top-bar-cinco p#subtitle-white a:active, 
 div.top-bar.top-bar-ocho p#subtitle-white a:active, div.top-bar.top-bar-nueve p#subtitle-white a:active {
@@ -1163,10 +1166,12 @@ div.top-bar.top-bar-seis p#subtitle-grey a:visited, div.top-bar.top-bar-siete p#
 div.top-bar.top-bar-once p#subtitle-grey a:visited{
     color: #0109dc;
 }
+
 div.top-bar.top-bar-seis p#subtitle-grey a:hover, div.top-bar.top-bar-siete p#subtitle-grey a:hover,
 div.top-bar.top-bar-once p#subtitle-grey a:hover {
     color: #797474;
 }
+
 div.top-bar.top-bar-seis p#subtitle-grey a:active, div.top-bar.top-bar-siete p#subtitle-grey a:active,
 div.top-bar.top-bar-once p#subtitle-grey a:active{
     color: #0109dc;

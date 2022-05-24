@@ -508,6 +508,7 @@ b i:last-child {
     text-transform: uppercase;
     color: #d1cecf;
     line-height: 1.7;
+    text-align: center;
 }
 
 .g {color: #d1cecf;}

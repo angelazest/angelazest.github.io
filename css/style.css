@@ -472,8 +472,16 @@ b#two.is-visible.txcover, #two i.out {
 }
 
 
+/* section
+================================================== */
+
+section.box-intro {
+    padding:0px;
+    margin: 0px;
+}
+
 /* box-intro
-==================================================*/
+================================================== * /
 
 .box-intro {
     text-align: center;

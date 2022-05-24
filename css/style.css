@@ -492,7 +492,7 @@ b#two.is-visible.txcover, #two i.out {
 .box-intro em {
     
     font-style: normal;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 b i:last-child {
@@ -501,13 +501,13 @@ b i:last-child {
 
 
 .box-intro h5 {
-    /*letter-spacing: 4px;*/
+    /*letter-spacing: 4px; */
     font-family: 'Titillium Web', sans-serif;
     font-weight: bold;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #d1cecf;
-    line-height: 1.7
+    line-height: 1.7;
 }
 
 .g {color: #d1cecf;}

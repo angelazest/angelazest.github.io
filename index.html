@@ -5,21 +5,23 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-   
-    <title>angelazest</title>
+    <!-- Principales etiquetas <head> cualquier otro contenido de *head* debe ir después-->
+    <title>angelaz</title>
     <link rel="icon" href="images/fav.png" type="image/x-icon">
 
+    <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="ionicons/css/ionicons.min.css" rel="stylesheet">
-	
-    <!-- main css -->
+
+    <!-- css principal-->
     <link href="css/style.css" rel="stylesheet">
 
+
     <!-- modernizr -->
-    <script src="js/modernizr.js"></script> 
+    <script src="js/modernizr-custom.js"></script>  
 </head>
-	
 <body>
+    <!-- Preloader -->
     <div id="preloader">
         <div class="pre-container">
             <div class="spinner">
@@ -28,67 +30,88 @@
             </div>
         </div>
     </div>
+    <!-- fin Preloader -->
 
     <div class="container-fluid">
-        <!-- box-header -->
-       <header class="box-header">
+        <!-- angelazest-header -->
+        <header class="box-header">
             <div class="box-logo">
-                <a href="index.html"><img src="images/logo2.png" width="115" alt="Logo"></a>
+                <a href="index.html"><img src="images/logo.png" width="115" alt="Logo"></a>
             </div>
-            <!-- box-nav -->
+            <!-- angelazest-nav -->
             <a class="box-primary-nav-trigger" href="#0">
-               <span class="box-menu-icon"></span>
-	    </a>
+                <span class="box-menu-text">Men&uacute;</span><span class="box-menu-icon"></span>
+            </a>
+            <!-- angelazest-primera-nav-trigger (disparador)-->
         </header>
-	   
- 	<!-- nav -->       
-	<nav>
+        <!-- fin angelazest header -->
+
+        <!-- nav -->
+        <nav>
             <ul class="box-primary-nav">
-                <li><a href="#">intro</a><i class="ion-ios-circle-filled color"></i></li>
-                <li><a href="hola.html">hola</a></li>
+                <li class="box-label">Acerca</li>
+
+                <li><a href="#">intro</a> <i class="ion-ios-circle-filled color"></i></li>
+                <li><a href="acerca.html">acerca</a></li>
+                <li><a href="servicios.html">servicios</a></li>
                 <li><a href="portfolio.html">portfolio</a></li>
-                <li><a href="contacto copia.html">contacto</a></li>
+                <li><a href="contacto.html">contacto</a></li>
                 
-		<!-- social -->    
+
+                <li class="box-social"><a href="https://www.facebook.com/angelazest"><i><img src="images/icon_1.svg"></i></a></li>
                 <li class="box-social"><a href="https://twitter.com/angelazest"><i><img src="images/icon_2.svg"></i></a></li>
-                <li class="box-social"><a href="https://www.instagram.com/angelazest/"><i><img src="images/icon_3.svg"></i></a></li>
-                <li class="box-social"><a href="https://angelablz.dribbble.com"><i><img src="images/icon_4.svg"></i></a></li>
+                <li class="box-social"><a href="index.html"><i><img src="images/icon_3.svg"></i></a></li>
             </ul>
         </nav>
+        <!-- fin nav -->
 
-    	<section class="box-intro">
+        <!-- angelazest-intro -->
+        <section class="box-intro">
             <div class="table-cell">
                 <h5 class="box-headline letters rotate-2">
                     <span class="box-words-wrapper">
                         <div><b id="one" class="txcover">zest.</b></div>
-                        <b id="two" class="is-visible txcover">Design·</b>
+                        <b id="two" class="is-visible txcover">UI&nbsp;Designer.</b>
+                        <!-- <b id="two" class="txcover">with&nbsp;love.</b> -->
                     </span>
-		</h5>
-                <h5>ZEST palabra anglosajona que significa entusiasmo</h5>
+		        </h5>
+                <h5>ZEST palabra anglosajona que significa entusiasmo... este es el esp&iacute;ritu de ZEST</h5>
             </div>
-        </section> 
+        </section>
+        <!-- fin angelazest-intro -->
     </div>
 
+    <!-- footer -->
     <footer>
         <div class="container-fluid">
-            <p class="copyright">angelazest 2022© </p>
+            <p class="copyright">© ANGELAZEST 2019</p>
         </div>
     </footer>
+    <!-- fin footer -->
 
+    <!-- volver top -->
     <a href="#0" class="cd-top"><i class="ion-android-arrow-up"></i></a>
+    <!-- fin volver top -->
 
 
+    <!-- jQuery -->
     <script src="js/jquery-2.1.1.js"></script>
+    <!--  plugins -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/menu.js"></script>
     <script src="js/animated-headline.js"></script>
     <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/custom.js"></script>
-	
-    <!-- <script>
-        if(!Modernizr.svg)var i=document.getElementsByTagName("img"),j,y;for(j=i.length;j--;)y=i[j].src,y.match(/svg$/)&&(i[j].src=y.slice(0,-3)+"png")
-    </script> -->
 
+
+    <!--  script personalizado-->
+    <script src="js/custom.js"></script>
+
+    <!-- script modernizr 
+    <script>
+        if(!Modernizr.svg)var i=document.getElementsByTagName("img"),j,y;for(j=i.length;j--;)y=i[j].src,y.match(/svg$/)&&(i[j].src=y.slice(0,-3)+"png")
+    </script>
+    -->
 
 </body>
+
 </html>

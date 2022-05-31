@@ -221,7 +221,7 @@ h3 {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(255, 255, 255, 0.95);
+    /* background: rgba(255, 255, 255, 0.95);*/
     height: 50px;
     width: 100%;
     z-index: 3;
@@ -244,7 +244,7 @@ h3 {
     transform: translate3d(0, 0, 0);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    background-color: #f8f7f7;
+    /* background-color: #f8f7f7; */
 }
 
 .box-header.is-fixed {

@@ -259,10 +259,10 @@ b#two.is-visible.txcover, #two i.out {
     transform: translate3d(0, 100%, 0);
 }
 
-.box-header.menu-is-open {
+/*.box-header.menu-is-open {
     background-color: rgba(255, 255, 255, 0.96);
     background-color: #f3ecec;
-}
+}*/
 
 .box-logo {
     display: block;

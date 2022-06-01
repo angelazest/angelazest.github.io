@@ -807,6 +807,7 @@ b i:last-child {
     opacity: 0;
     font-size: 1.2em;
     letter-spacing: 0.5em;
+    line-height: 1.8;
 }
 
 .portfolio_item:hover .portfolio_item_hover {

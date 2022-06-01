@@ -250,7 +250,8 @@ h3 {
 .box-header.is-fixed {
     position: fixed;
     top: -80px;
-    background-color: rgba(255, 255, 255, 0.96);
+    /* Eliminar la pastilla blanca superior que incluia el logo y el hamburguer */
+    /* background-color: rgba(255, 255, 255, 0.96); */
     -webkit-transition: -webkit-transform 0.3s;
     transition: -webkit-transform 0.3s;
     transition: transform 0.3s;

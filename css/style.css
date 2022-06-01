@@ -359,7 +359,7 @@ b#two.is-visible.txcover, #two i.out {
     background-color: transparent;
     height: 30px;
     line-height: 30px;
-    right: 10px;
+    right: 1.5em;
     top: 50%;
     bottom: auto;
     -webkit-transform: translateY(-50%);

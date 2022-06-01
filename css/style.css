@@ -805,7 +805,7 @@ b i:last-child {
     -webkit-transition: all .3s ease-in-out .3s;
     transition: all .3s ease-in-out .3s;
     opacity: 0;
-    font-size: 0.4em;
+    font-size: 0.5em;
     letter-spacing: 0.1em;
     line-height: 1.2;
 }

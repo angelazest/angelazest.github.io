@@ -970,8 +970,8 @@ border: 0px solid #000000;
     text-align: center;
 }
 
-/* Se ha comentado el background-size porque se veia una linea negra en el top */
-.top-bar-hola {
+/* Cover active I see a black line top */
+.top-bar-about {
     background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/009.jpg);
     background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/009.jpg);
     /*background-size: cover;*/

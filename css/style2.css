@@ -1046,9 +1046,9 @@ border: 0px solid #000000;
     background-position: center center;
 }
 .top-bar-nueve{
-    /Semi-transparent white layer over the illustration */
-    /*background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/009.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/009.jpg); */
+    /* Semi-transparent white layer over the illustration */
+    /* background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/009.jpg); */
+    /* background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/009.jpg); */
     background: url(../images/009.jpg);
     background-size: cover;
     background-attachment: fixed;

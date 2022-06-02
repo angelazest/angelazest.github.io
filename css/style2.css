@@ -1131,7 +1131,7 @@ p#subtitle-grey {
 }
 
 
-/* custom colour subtitle uno, cuatro, cinco, ocho, nueve
+/* custom colour subtitle uno, cuatro, cinco, ocho, nueve(about)
 =======================================================================================================*/ 
 
 div.top-bar.top-bar-uno p#subtitle-white a:link, div.top-bar.top-bar-dos p#subtitle-white a:link,
@@ -1163,24 +1163,21 @@ div.top-bar.top-bar-ocho p#subtitle-white a:active, div.top-bar.top-bar-nueve p#
 ========================================================================================================*/
 
 div.top-bar.top-bar-dos p#subtitle-grey a:link, div.top-bar.top-bar-seis p#subtitle-grey a:link, 
-div.top-bar.top-bar-siete p#subtitle-grey a:link, div.top-bar.top-bar-nueve p#subtitle-grey a:link,
-div.top-bar.top-bar-once p#subtitle-grey a:link{
+div.top-bar.top-bar-siete p#subtitle-grey a:link, div.top-bar.top-bar-once p#subtitle-grey a:link{
     color: #0109dc;
 }
 div.top-bar.top-bar-dos p#subtitle-grey a:visited, div.top-bar.top-bar-seis p#subtitle-grey a:visited, 
-div.top-bar.top-bar-siete p#subtitle-grey a:visited, div.top-bar.top-bar-nueve p#subtitle-grey a:visited, 
-div.top-bar.top-bar-once p#subtitle-grey a:visited{
+div.top-bar.top-bar-siete p#subtitle-grey a:visited, div.top-bar.top-bar-once p#subtitle-grey a:visited{
     color: #0109dc;
 }
 
 div.top-bar.top-bar-dos p#subtitle-grey a:hover, div.top-bar.top-bar-siete p#subtitle-grey a:hover,
-div.top-bar.top-bar-nueve p#subtitle-grey a:hover, div.top-bar.top-bar-once p#subtitle-grey a:hover {
+div.top-bar.top-bar-once p#subtitle-grey a:hover {
     color: #797474;
 }
 
 div.top-bar.top-bar-dos p#subtitle-grey a:active, div.top-bar.top-bar-seis p#subtitle-grey a:active, 
-div.top-bar.top-bar-siete p#subtitle-grey a:active, div.top-bar.top-bar-nueve p#subtitle-grey a:active,
-div.top-bar.top-bar-once p#subtitle-grey a:active{
+div.top-bar.top-bar-siete p#subtitle-grey a:active, div.top-bar.top-bar-once p#subtitle-grey a:active{
     color: #0109dc;
 }
 

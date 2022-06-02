@@ -1119,6 +1119,10 @@ h1#title {
     color: #c2c0c0;
 }
 
+h1#title2 {
+    color: #424040;
+}
+
 p#subtitle-white {
   color: #ffff;
 }

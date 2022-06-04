@@ -224,10 +224,16 @@
 
 
 /*--------------------------------------------------------------------------*/
-/* 10 This Myles Sanko web  */
+/*This is main CSS file that intializes BG Images used in Visual Thinking */
 /*--------------------------------------------------------------------------*/
 
-/*
+
+.project-09-carousel-item-01{
+	background-image: url('../images/project/project10/01.jpg');
+}
+.project-09-carousel-item-02{
+	background-image: url('../images/project/project10/02.jpg');
+}
 
 
 
@@ -258,7 +264,7 @@
 
 
 /*--------------------------------------------------------------------------*/
-/*This is main CSS file that intializes BG Images used Visual Thinking */
+/*This is main CSS file that intializes BG Images used Local Impact */
 /*--------------------------------------------------------------------------*/
 
 

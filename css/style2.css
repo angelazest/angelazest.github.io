@@ -1057,7 +1057,14 @@ border: 0px solid #000000;
 }
 
 
-/* .top-bar-diez {Myles Sanko}*/
+.top-bar-diez{
+    /* background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/010.jpg);*/
+    /*background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/010.jpg);*/
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 
 
 .top-bar-once{

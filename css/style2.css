@@ -1107,9 +1107,8 @@ border: 0px solid #000000;
 }
 
 .top-bar-quince{
-    /*background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/015.jpg);*/
-    /*background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/015.jpg);*/
-    background: url(../images/015.jpg);
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/015.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/015.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;

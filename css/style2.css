@@ -1204,32 +1204,33 @@ div.top-bar.top-bar-quince p#subtitle-white a:active{
 }
 
 
-/* custom colour subtitle dos, seis, siete, nueve (about), once, doce, trece
+/* custom colour subtitle dos, seis, siete, nueve (about), once, doce, trece, quince
 ========================================================================================================*/
 
 div.top-bar.top-bar-dos p#subtitle-grey a:link, div.top-bar.top-bar-seis p#subtitle-grey a:link, 
 div.top-bar.top-bar-siete p#subtitle-grey a:link, div.top-bar.top-bar-once p#subtitle-grey a:link,
 div.top-bar.top-bar-doce p#subtitle-grey a:link, div.top-bar.top-bar-trece p#subtitle-grey a:link,
-div.top-bar.top-bar-catorce p#subtitle-grey a:link {
+div.top-bar.top-bar-catorce p#subtitle-grey a:link, div.top-bar.top-bar-quince p#subtitle-grey a:link{
     color: #0109dc;
 }
 div.top-bar.top-bar-dos p#subtitle-grey a:visited, div.top-bar.top-bar-seis p#subtitle-grey a:visited, 
 div.top-bar.top-bar-siete p#subtitle-grey a:visited, div.top-bar.top-bar-once p#subtitle-grey a:visited,
 div.top-bar.top-bar-doce p#subtitle-grey a:visited, div.top-bar.top-bar-trece p#subtitle-grey a:visited,
-div.top-bar.top-bar-catorce p#subtitle-grey a:visited{
+div.top-bar.top-bar-catorce p#subtitle-grey a:visited, div.top-bar.top-bar-quince p#subtitle-grey a:visited{
     color: #0109dc;
 }
 
 div.top-bar.top-bar-dos p#subtitle-grey a:hover, div.top-bar.top-bar-siete p#subtitle-grey a:hover,
 div.top-bar.top-bar-once p#subtitle-grey a:hover, div.top-bar.top-bar-doce p#subtitle-grey a:hover,
-div.top-bar.top-bar-trece p#subtitle-grey a:hover, div.top-bar.top-bar-catorce p#subtitle-grey a:hover{
+div.top-bar.top-bar-trece p#subtitle-grey a:hover, div.top-bar.top-bar-catorce p#subtitle-grey a:hover,
+div.top-bar.top-bar-quince p#subtitle-grey a:hover{
     color: #797474;
 }
 
 div.top-bar.top-bar-dos p#subtitle-grey a:active, div.top-bar.top-bar-seis p#subtitle-grey a:active, 
 div.top-bar.top-bar-siete p#subtitle-grey a:active, div.top-bar.top-bar-once p#subtitle-grey a:active,
 div.top-bar.top-bar-doce p#subtitle-grey a:active, div.top-bar.top-bar-trece p#subtitle-grey a:active,
-div.top-bar.top-bar-catorce p#subtitle-grey a:active {
+div.top-bar.top-bar-catorce p#subtitle-grey a:active, div.top-bar.top-bar-catorce p#subtitle-grey a:active{
     color: #0109dc;
 }
 

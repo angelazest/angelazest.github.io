@@ -290,6 +290,11 @@ h3 {
 
 
 /* icon hamgurguer black */
+#whit.box-menu-icon { 
+    background-color: #ffff;
+}
+
+
 
 .box-primary-nav-trigger .box-menu-icon {
     display: inline-block;

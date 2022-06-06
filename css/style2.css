@@ -289,10 +289,18 @@ h3 {
 }
 
 
-/* icon hamgurguer black */
+/* icon hamgurguer white
+==================================================*/
+
 #whit.box-menu-icon { 
     background-color: #ffff;
 }
+
+span.whit.box-menu-icon ::before { 
+    background-color: #ffff;
+}
+
+/* end */
 
 
 

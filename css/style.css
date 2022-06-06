@@ -499,6 +499,7 @@ b i:last-child {
     color: #dc143c !important; 
 }
 
+/* logo */
 
 .box-intro h5 {
     /*letter-spacing: 4px; */
@@ -507,7 +508,7 @@ b i:last-child {
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: #d1cecf;
-    line-height: 1.7;
+    /*line-height: 1.7;*/
     text-align: center;
 }
 
@@ -562,7 +563,7 @@ b i:last-child {
     }
 }
 
-/* font-size Logo */
+/* Logo */
 .box-headline {
     font-size: 5em;
     line-height: 1.0;

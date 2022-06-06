@@ -562,8 +562,9 @@ b i:last-child {
     }
 }
 
+/* font-size Logo */
 .box-headline {
-    font-size: 130px;
+    font-size: 5em;
     line-height: 1.0;
 }
 

@@ -101,6 +101,12 @@ h5 {
     color: #ffbf00;
 }
 
+/* center phrase index */
+#table-cell h5 { 
+    margin: auto;
+}
+
+
 /* typo cover
 ==================================================*/
 

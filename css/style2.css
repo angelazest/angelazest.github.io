@@ -288,6 +288,9 @@ h3 {
     display: none;
 }
 
+
+/* icon hamgurguer black */
+
 .box-primary-nav-trigger .box-menu-icon {
     display: inline-block;
     position: absolute;
@@ -304,6 +307,12 @@ h3 {
     transition: background-color 0.3s;
     list-style: none;
 }
+
+/* icon hamgurguer white */
+.icon_white {
+    color: #ffff;
+}
+
 
 .box-primary-nav-trigger .box-menu-icon::before,
 .box-primary-nav-trigger .box-menu-icon:after {

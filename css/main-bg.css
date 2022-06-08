@@ -338,6 +338,21 @@
 }
 
 
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in Social Networks */
+/*----------------------------------------------------------------------------*/
+
+
+.project-17-carousel-item-01{
+	background-image: url('../images/project/project16/01.jpg');
+}
+.project-17-carousel-item-02{
+	background-image: url('../images/project/project16/02.jpg');
+}
+
+
+
+
 
 
 /*Mobile Menu Logo*/

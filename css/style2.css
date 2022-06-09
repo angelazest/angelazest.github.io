@@ -1116,6 +1116,7 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
+
 .top-bar-trece{
     /*background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/012.jpg);*/
     /*background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/012.jpg);*/
@@ -1146,12 +1147,22 @@ border: 0px solid #000000;
     background-position: center center;
 }
 
+/* calculadora
+==================================================*/
+
+/* .top-bar-dieciseis */
 
 
+.top-bar-diecisiete {
+    /*background: -webkit-linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/017.jpg);*/
+    /*background: linear-gradient( rgba(255, 255, 255, .1), rgba(255, 255, 255, .4)), url(../images/017.jpg); */
+    background: url(../images/017.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 
-
-
-/* Ir bajando hacia su posición correcta */
 
 
 

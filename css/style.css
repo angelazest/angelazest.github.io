@@ -508,7 +508,8 @@ b i:last-child {
     color: #dc143c !important; 
 }
 
-/* logo */
+/* Logo
+==================================================*/
 
 .box-intro h5 {
     /*letter-spacing: 4px; */
@@ -521,8 +522,15 @@ b i:last-child {
     text-align: center;
 }
 
-.g {color: #d1cecf;}
+.table-cell {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
+
+.g {color: #d1cecf;}
 
 @-webkit-keyframes intro {
     0% {
@@ -891,7 +899,7 @@ footer img {
 }
 
 
-/* volver top
+/* Back top
 ==================================================*/
 
 .cd-top {
@@ -947,7 +955,7 @@ border: 0px solid #000000;
     color: #fff;
 }
 
-/* pagina acerca 
+/* About
 ==================================================*/
 
 .top-bar {
@@ -1009,7 +1017,7 @@ border: 0px solid #000000;
 }
 
 
-/* pagina servicios
+/* Services
 ==================================================*/
 
 .size-50 {
@@ -1025,8 +1033,7 @@ border: 0px solid #000000;
 }
 
 
-/* pagina contacto
-==================================================*/
+/* Contact
 
 .details-text i {
     margin-right: 10px;
@@ -1154,8 +1161,11 @@ textarea:focus {
     color: #fff;
 }
 
+==================================================*/
 
-/*  pagina single project
+
+
+/* Single project
 ==================================================*/
 
 .cat-ul {

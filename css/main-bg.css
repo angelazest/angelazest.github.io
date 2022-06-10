@@ -345,6 +345,19 @@
 }
 
 
+/*----------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in Social Networks */
+/*----------------------------------------------------------------------------*/
+
+
+.project-18-carousel-item-01{
+	background-image: url('../images/project/project18/01.jpg');
+}
+.project-18-carousel-item-02{
+	background-image: url('../images/project/project18/02.jpg');
+}
+
+
 
 
 
